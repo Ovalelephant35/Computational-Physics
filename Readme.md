@@ -91,10 +91,6 @@ Contributions to this repository are welcome! If you have a computational physic
 
 6. Open a pull request to the main repository. Be sure to provide a clear description of your contribution.
 
-## License
-
-This repository is open-source and is available under the [MIT License](LICENSE).
-
 
 
 
