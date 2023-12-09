@@ -1,17 +1,11 @@
 # Computational Physics Repository
 
-Welcome to the Computational Physics Repository! This repository contains a collection of codes, simulations, and resources related to computational physics. Whether you're a student, researcher, or just curious about the intersection of physics and computation, you'll find something useful here.
+Welcome to the Computational Physics Repository! This repository contains a collection of codes, simulations, and resources related to computational physics. Whether you're a student or just curious about the intersection of physics and computation, you'll find something useful here.
 
-## Table of Contents
-
-- [About](#about)
-- [Getting Started](#getting-started)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## About
 
-This repository is a hub for computational physics enthusiasts. Here, you'll find a variety of code examples, simulations, and projects that demonstrate the application of computational techniques to physics problems. From simple simulations to complex numerical methods, we aim to provide a range of content suitable for different skill levels.
+This Repository contains basic and intermediate level of some of the implementational of physics related problems solved using different technique such as interpolation , regression , Root-Finding etc.
 
 ## Getting Started
 
